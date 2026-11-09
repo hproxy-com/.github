@@ -10,4 +10,6 @@ What we keep open here:
 - **[proxy-all-in-one-tool](https://github.com/hproxy-com/proxy-all-in-one-tool)**: a free app for Windows, macOS, Linux and Android that checks any proxy list and switches your device to the proxy you pick, plus a command-line tool and a Chrome extension.
 - **[hproxy-mcp](https://github.com/hproxy-com/hproxy-mcp)**: our hosted MCP server, so Claude, ChatGPT, Cursor and other assistants can pull free proxies, check them and look up an IP. No key and nothing to install.
 
+News and talk: [X](https://x.com/Hproxy_com) · [Discord](https://discord.gg/PRp5wVzQrG) · [Telegram](https://t.me/hproxy_channel)
+
 Questions go to [hproxy.com/contact](https://hproxy.com/contact), answered around the clock.
